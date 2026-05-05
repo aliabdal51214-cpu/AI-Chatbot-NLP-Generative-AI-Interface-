@@ -245,7 +245,7 @@ Decoded response displayed in Gradio UI
 ## 👤 Author 
 Ali Abdal
 
-**Your Name**
+**ALI ABDAL**
 - 🔗 LinkedIn: https://www.linkedin.com/in/ali-abdal-ml/
 - 🐙 GitHub: https://github.com/aliabdal51214-cpu
 
