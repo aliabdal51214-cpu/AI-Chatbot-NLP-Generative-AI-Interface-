@@ -1,3 +1,5 @@
+<img width="3085" height="1492" alt="Screenshot 2" src="https://github.com/user-attachments/assets/caa1717e-ceb8-4dcb-b6fe-fe5c66801c54" />
+<img width="3069" height="1505" alt="Screenshot 1" src="https://github.com/user-attachments/assets/96dfb2b9-c631-4bd8-bccf-8e95d07ae152" />
 <img width="3069" height="1505" alt="Screenshot 1" src="https://github.com/user-attachments/assets/5191aecd-64f7-424b-b601-cfb19d46ddba" />
 # 🤖 AI Chatbot — NLP & Generative AI Interface
 
